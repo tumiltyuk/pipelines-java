@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/robertTumiltyIJYI/SampleForToday_SampleProject/_apis/build/status/tumiltyuk.pipelines-java?branchName=master)](https://dev.azure.com/robertTumiltyIJYI/SampleForToday_SampleProject/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
